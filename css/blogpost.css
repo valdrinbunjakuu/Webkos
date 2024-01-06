@@ -1,0 +1,38 @@
+.vb_time {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.vb_post p {
+    line-height: 30px;
+    margin: 0;
+}
+
+.vb_post {
+    width: 70%;
+}
+
+.vb_post iframe {
+    width: 100%;
+    height: 700px;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-block: 60px;
+}
+
+table, td, th {
+    border: 1px solid;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
