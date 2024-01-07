@@ -48,6 +48,7 @@ main .vb_right {
 
 main .vb_left,
 main .vb_right {
+    cursor: pointer;
     font-size: 50px;
     color:white;
 }
